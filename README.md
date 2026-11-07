@@ -1,5 +1,5 @@
 # Temperature-converter
-## ?
+## What is it, how does it work?
 This is a CLI converter app, like you would see beginners make. That is the case here.
 
 ## Why?
@@ -10,5 +10,8 @@ I'm learning rust and soon as project i will update this to feature every temper
 - Download the release **source code**, extract the folders inside.
 - Go to **.../Temperature-converter/src** cargo build --release.
 - This will make an executable file in **.../Temperature-converter/target/release/**, run it.
+
+## Alternative
+If you have git installed you go to your terminal emulator and type: git clone https://github.com/rextrospect/Temperature-converter
 
 

@@ -12,6 +12,7 @@ I'm learning rust and soon as project i will update this to feature every temper
 - This will make an executable file in **.../Temperature-converter/target/release/**, run it.
 
 ## Alternative
+- - Go to [rust-lang.org](https://rust-lang.org/), follow installation steps.
 - If you have git installed you go to your terminal emulator and type:
   
 ``

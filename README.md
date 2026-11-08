@@ -12,7 +12,8 @@ I'm learning rust and soon as project i will update this to feature every temper
 - This will make an executable file in **.../Temperature-converter/target/release/**, run it.
 
 ## Alternative
-- If you have git installed you go to your terminal emulator and type: 
+- If you have git installed you go to your terminal emulator and type:
+  
 ``
 git clone [https://github.com/rextrospect/Temperature-converter](https://github.com/rextrospect/Temperature-converter.git)
 ``

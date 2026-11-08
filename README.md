@@ -15,7 +15,7 @@ I'm learning rust and soon as project i will update this to feature every temper
 - If you have git installed you go to your terminal emulator and type:
   
 ``
-git clone [https://github.com/rextrospect/Temperature-converter](https://github.com/rextrospect/Temperature-converter.git)
+git clone https://github.com/rextrospect/Temperature-converter
 ``
 - Go to **.../Temperature-converter/src** cargo build --release.
 - This will also create the executable.

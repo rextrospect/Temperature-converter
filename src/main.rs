@@ -2,6 +2,7 @@ use std::io;
 use rand::{self, RngExt};
 
 fn main() {
+    let mut avg: Vec<f64> = Vec::new();
     loop {
     // Chooses option
     let option: i32 = loop {
@@ -41,8 +42,11 @@ fn main() {
     } else {
         convert_celfah(value)
     };
+    avg.push(converted);
+  let average = avg.iter().sum::<f64>() / avg.len() as f64;
     println!("_____________________________");
     println!("*Result: {}*", converted);
+    println!("Average so far: {}", average);
     println!("_____________________________");
 }
 
